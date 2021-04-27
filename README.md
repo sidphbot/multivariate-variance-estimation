@@ -1,5 +1,5 @@
 # multivariate-variance-estimation - Autokeras
-Automated variance estimation for high and low signals for a metric polled on intervals (e.g. stock price, server resource utilisation)
+Automated variance or load forecasting for a metric polled for min/max value on intervals (e.g. stock price, server resource utilisation)
 
 Requires:
 - Auto-Keras
